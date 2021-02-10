@@ -1,2 +1,12 @@
-# dynamic_multiplayer_game
-Some kind of online multiplayer game that incorporates a dynamic internet element (maybe a constantly updating database or api or something) to do something cool. Currently open to interpretation. Preferably built in Unity.
+# VR Grapple Hook Racer
+Tentative thoughts:
+- Grapple hook racing through city with tall buildings in VR
+- Like mario kart combat race but in the air
+- Maybe one person controlling the environment (traps, etc) (maybe is a huge giant destroying things)
+- Maybe plague/covid? Somehow?
+- Ghosts (show best path?/tutorial) (or maybe dead players haunting??)
+- Maybe earn/steal items from players? Maybe start out with items? Maybe do trick shots or shortcuts for items?
+- Power-up by following exactly a trail (consuming the gas)
+- Centripetal force around corners
+- Maybe retro/futuristic/RGB artistic theme
+- Maybe distopia city map (think cyberpunk)
