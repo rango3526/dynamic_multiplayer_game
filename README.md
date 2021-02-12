@@ -10,3 +10,8 @@ Tentative thoughts:
 - Centripetal force around corners
 - Maybe retro/futuristic/RGB artistic theme
 - Maybe distopia city map (think cyberpunk)
+
+---
+
+# Current Tentative Dev List:
+[kawaiiPlat](github.com/kawaiiPlat)
