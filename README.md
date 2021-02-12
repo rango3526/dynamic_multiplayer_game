@@ -15,3 +15,4 @@ Tentative thoughts:
 
 # Current Tentative Dev List:
 [kawaiiPlat](github.com/kawaiiPlat)
+[rango3526](github.com/rango3526)
