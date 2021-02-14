@@ -17,3 +17,4 @@ Tentative thoughts:
 [kawaiiPlat](github.com/kawaiiPlat)
 [rango3526](github.com/rango3526)
 [Hawsonn](github.com/Hawsonn)
+[isaacfuenmayora](github.com/isaacfuenmayora)
