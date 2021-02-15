@@ -9,7 +9,7 @@ Tentative thoughts:
 - Power-up by following exactly a trail (consuming the gas)
 - Centripetal force around corners
 - Maybe retro/futuristic/RGB artistic theme
-- Maybe distopia city map (think cyberpunk)
+- Maybe dystopia city map (think cyberpunk)
 
 ---
 
