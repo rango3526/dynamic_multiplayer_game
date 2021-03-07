@@ -16,6 +16,6 @@ Tentative thoughts:
 # Current Tentative Dev List:
 [kawaiiPlat](github.com/kawaiiPlat)
 [rango3526](github.com/rango3526)
-[Hawsonn](github.com/Hawsonn)
+[HunterLawson](github.com/HunterLawson)
 [isaacfuenmayora](github.com/isaacfuenmayora)
 [yonasbahre](github.com/yonasbahre)
